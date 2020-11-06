@@ -42,12 +42,6 @@ e.g. When you hit **run**, this is what should happen:
 
 ![](https://cdn.fs.teachablecdn.com/mGRynIETXuVqoDk8unci)
 
-Hint
 
-1. Try to use the **exponent** operator in your code.
-2. Remember to **round** your result to the nearest whole number. 
-3. Make sure you include the words in **bold** from the interpretations. 
 
-# Solution
 
-[https://repl.it/@appbrewery/day-3-2-solution](https://repl.it/@appbrewery/day-3-2-solution)
